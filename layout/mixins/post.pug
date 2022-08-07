@@ -22,10 +22,10 @@ mixin postlist_archive()
             - var itemyear = date(item.date, 'YYYY') - 0;
             - var itemmonth = date(item.date, 'MM') - 0;
             if !(itemyear === cache[0])
-                h2.archive-year #{itemyear} 年
+                h2.archive-year!= date(item.date, 'YYYY')
                 - cache[0] = itemyear
             if !(itemmonth === cache[1])
-                h3.archive-month #{itemmonth} 月
+                h3.archive-month!= date(item.date, 'MMMM')
                 - cache[1] = itemmonth
             .post-item
                 +post_info(item)
