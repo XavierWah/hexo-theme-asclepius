@@ -2,45 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://asclepius.xv1r.cn/license/</loc>
-    
-    <lastmod>2022-08-07</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://asclepius.xv1r.cn/hello-world/</loc>
-    
-    <lastmod>2022-08-07</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://asclepius.xv1r.cn/readme_cn/</loc>
-    
-    <lastmod>2022-08-07</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://asclepius.xv1r.cn/readme/</loc>
-    
-    <lastmod>2022-08-07</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://asclepius.xv1r.cn/document/</loc>
     
-    <lastmod>2022-08-07</lastmod>
+    <lastmod>2022-08-08</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -49,7 +13,43 @@
   <url>
     <loc>https://asclepius.xv1r.cn/document_cn/</loc>
     
-    <lastmod>2022-08-07</lastmod>
+    <lastmod>2022-08-08</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://asclepius.xv1r.cn/hello-world/</loc>
+    
+    <lastmod>2022-08-08</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://asclepius.xv1r.cn/license/</loc>
+    
+    <lastmod>2022-08-08</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://asclepius.xv1r.cn/readme/</loc>
+    
+    <lastmod>2022-08-08</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://asclepius.xv1r.cn/readme_cn/</loc>
+    
+    <lastmod>2022-08-08</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -58,7 +58,7 @@
 
   <url>
     <loc>https://asclepius.xv1r.cn/</loc>
-    <lastmod>2022-08-07</lastmod>
+    <lastmod>2022-08-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
