@@ -8,7 +8,7 @@ navlink:
         Blog: /
         Archive: /archives/
     external:
-        GitHub: https://github.com/XavierWah
+        GitHub: https://github.com/XavierWah/hexo-theme-asclepius
         Rss: /atom.xml
 
 # Copyright
